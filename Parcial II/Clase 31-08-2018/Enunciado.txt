@@ -1,0 +1,12 @@
+Hacer un menu en pantalla con las opciones
+1-Crear en memoria sistema de la tienda.
+2-Consultar los datos de un producto, dado el codigo por teclado.
+3-Actualizar el precio de un producto ingresando el codigo y nuevo precio por teclado.
+4-Eliminar un producto ingresando codigo por teclado.
+5-Agregar Nuevo Producto ingresando todos sus datos por teclado. si no existe el departamento, preguntar si desea crearlo.
+6-Agregar Nuevo departamento a la tienda con datos administrados por el teclado.
+7-Eliminar departamento.
+8-Consultadr un departamento ingresando su codigo por teclado y preguntar si desea ver o no los productos registrado
+en ese departamento.
+9-Imprimir el catalogo de productos de toda la tienda por departamentos de menor a mayor codigo.
+10-Salir. si se registro algun cambio o actualizacion entonces debera actualizar la data en los archivos.

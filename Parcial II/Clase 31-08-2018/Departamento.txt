@@ -1,0 +1,3 @@
+18,Genericos
+10,Ferreteria
+31,Muebles

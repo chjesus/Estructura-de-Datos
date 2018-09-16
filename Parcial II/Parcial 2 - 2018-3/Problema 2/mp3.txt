@@ -1,0 +1,13 @@
+ThreeOut,AOA,3,AngelsKnock,jPop
+Poly,Nirvana,20,NirvanaExitos,Rock
+Endless,Nirvana,5,Nevermind,Rock
+WOWwarTonight,AOA,25,AngelsKnock,jPop
+MiAmor,AnaGrabiel,35,MiAmor,Romantica
+BingBing,AOA,4,AngelsKnock,jPop
+DrainYou,Nirvana,4,Nevermind,Rock
+SugarFree,t-Ara,12,JewelryBox,kPop
+ExcuseMe,AOA,15,AngelsKnock,jPop
+Yayaya,t-Ara,5,TreasureBox,kPop
+Breed,Nirvana,7,Nevermind,Rock
+Weironi,t-Ara,7,TreasureBox,kPop
+TTL,t-Ara,10,TreasureBox,kPop

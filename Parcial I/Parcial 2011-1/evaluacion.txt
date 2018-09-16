@@ -1,0 +1,10 @@
+25,jose paredes,01,Matematica I,100,25
+26,pedro perez,01,Matematica I,55,25
+27,julia suarez,02,quimica I,75,50
+25,jose paredes,03,computacion I,50,40
+25,jose paredes,03,computacion I,60,60
+27,julia suarez,01,Matematica I,45,25
+25,jose paredes,01,Matematica I,40,75
+26,pedro perez,01,Matematica I,75,75
+27,julia suarez,02,quimica I,05,50
+27,julia suarez,01,matematica I,75,75
