@@ -1,4 +1,4 @@
-# Estructura de Datos | Intensivo 2018-3 | Temario
+># Estructura de Datos | Intensivo 2018-3 | Temario
 
 # [I Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I)
 1. **Metodos de Ordenación.**
@@ -40,3 +40,5 @@
 2. **Grafos.**
 # [IV Parcial](https://github.com/chjesus/Restar-Cuadrados)
    Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
+   
+># Contenido de las Plantillas (.h)
