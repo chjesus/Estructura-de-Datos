@@ -20,19 +20,19 @@
    - Texto.
    - Binarios.
 # [II Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II)
-  - Colas.
-    - Dinamica.
-    - Circular.
-    - Bicola.
-  - Pilas.
-    - Array.
-    - Dinamica.
-  - Listas.
-    - Dinamica Simple.
-    - Circular Simple.
-    - Doble Enlazada.
-    - Circular Doble Enlazada.
-  - Multilistas.
+  1. Colas.
+     - Dinamica.
+     - Circular.
+     - Bicola.
+  2. Pilas.
+     - Array.
+     - Dinamica.
+  3. Listas.
+     - Dinamica Simple.
+     - Circular Simple.
+     - Doble Enlazada.
+     - Circular Doble Enlazada.
+  4. Multilistas.
 # [III Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III)
   - Arboles.
     - Arboles Binarios.
