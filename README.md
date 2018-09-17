@@ -1,5 +1,6 @@
 # Estructura de Datos | Intensivo 2018-3
-## **I Parcial.** ##
+
+[I Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I).
 ### 1. Metodos de Ordenación. ###
    - **Interna.**
      - Burbuja.
@@ -38,3 +39,4 @@
     - Arboles AVL.
   - Grafos.
 ## **IV Parcial.** ##
+   Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
