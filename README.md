@@ -41,6 +41,9 @@
 # [IV Parcial](https://github.com/chjesus/Restar-Cuadrados)
    Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
    
+# Descargas | *Importante*
+- Para la Ejecución del Problema 1 del [Parcial III](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Parcial%20III%202018-3) Es necesario descargar el Archivo Personas.txt para la lectura de datos [Personas.txt](https://mega.nz/#!jp8kQCDJ!ctf00NoqQ6clxqYmBnIaejxIYqQOYEtTLofTXocyWAQ)
+
 # Contenido de las Plantillas (.h)
 1. I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
 2. I Parcial - [Hashing](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Hashing) Hecha por [Jesús Chacón](https://github.com/chjesus)
