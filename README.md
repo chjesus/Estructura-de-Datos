@@ -55,3 +55,6 @@
 11. II Parcial - [Pilas_dinamicas.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/Pilas_dinamicas.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
 12. III Parcial - [ArbolBinario](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/ArbolBBinario.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
 13. III Parcial - [ArbolAVL.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/ArbolAVL.h) Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
+14. III Parcial - [Grafo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/Grafo.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
+15. III Parcial - [NodoAdy.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoAdy.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
+16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
