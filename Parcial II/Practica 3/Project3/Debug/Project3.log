@@ -1,0 +1,27 @@
+﻿Build started 24/08/2018 19:13:14.
+     1>Project "c:\Users\USUARIO\documents\visual studio 2013\Projects\Project3\Project3\Project3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Principal.cpp main.cpp
+         Principal.cpp
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(20): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(52): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(58): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(64): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(20): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(52): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(58): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\usuario\documents\visual studio 2013\projects\project3\project3\principal.h(64): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\usuario\documents\visual studio 2013\Projects\Project3\Debug\Project3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\usuario\documents\visual studio 2013\Projects\Project3\Debug\Project3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\usuario\documents\visual studio 2013\Projects\Project3\Debug\Project3.lib" /MACHINE:X86 Debug\ListaEnlazada.obj
+         Debug\main.obj
+         Debug\Principal.obj
+         Project3.vcxproj -> c:\users\usuario\documents\visual studio 2013\Projects\Project3\Debug\Project3.exe
+     1>Done Building Project "c:\Users\USUARIO\documents\visual studio 2013\Projects\Project3\Project3\Project3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.69
