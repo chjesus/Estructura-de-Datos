@@ -20,8 +20,18 @@
    - Binarios.
 ## **II Parcial.** ##
   - Colas.
+    - Dinamica.
+    - Circular.
+    - Bicola.
   - Pilas.
+    - Array.
+    - Dinamica.
   - Listas.
+    - Dinamica Simple.
+    - Circular Simple.
+    - Doble Enlazada.
+    - Circular Doble Enlazada.
+  - Multilistas.
 ## **III Parcial.** ##
   - Arboles.
     - Arboles Binarios.
