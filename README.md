@@ -1,6 +1,6 @@
 # Estructura de Datos | Intensivo 2018-3
 
-# [I Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I).
+# [I Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I)
 ### 1. Metodos de Ordenación. ###
    - **Interna.**
      - Burbuja.
@@ -19,7 +19,7 @@
 ### 3. Manejo de archivos. ###
    - Texto.
    - Binarios.
-## **II Parcial.** ##
+# [II Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II)
   - Colas.
     - Dinamica.
     - Circular.
@@ -33,10 +33,10 @@
     - Doble Enlazada.
     - Circular Doble Enlazada.
   - Multilistas.
-## **III Parcial.** ##
+# [III Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III)
   - Arboles.
     - Arboles Binarios.
     - Arboles AVL.
   - Grafos.
-## **IV Parcial.** ##
+# [IV Parcial]
    Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
