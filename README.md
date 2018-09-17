@@ -45,6 +45,34 @@
 # Descargas | *Importante*
 - Para la Ejecución del Problema 1 del [Parcial III](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Parcial%20III%202018-3) Es necesario descargar el Archivo Personas.txt para la lectura de datos [Personas.txt](https://mega.nz/#!jp8kQCDJ!ctf00NoqQ6clxqYmBnIaejxIYqQOYEtTLofTXocyWAQ)
 
+# Practicas
+- I Parcial 
+  - [Practica 1](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Practica%201)
+  - [Practica 2](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Practica%202)
+- II Parcial 
+  - [Practica 1](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Practica%201)
+  - [Practica 2](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Practica%202)
+  - [Practica 3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Practica%203)
+- III Parcial 
+  - [Practica 1](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Practica%201)
+
+# Parciales
+
+- I Parcial [2011-1](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Parcial%202011-1)
+  - Problema Unico Estado - Completo
+- I Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Parcial%20I%202018-3)
+  - Problema 1 Estado - Incompleto
+  - Problema 2 Estado - Completo
+- II Parcial [2014-2](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Parcial%202)
+  - Problema 1 Estado - Completo
+  - Problema 2 Estado - Completo
+- II Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Parcial%202%20-%202018-3)
+  - Problema 1 Estado - Completo
+  - Problema 2 Estado - Completo
+- III Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Parcial%20III%202018-3)
+  - Problema 1 Estado - Completo
+  - Problema 2 Estado - Incompleto
+
 # Contenido de las Plantillas (.h)
 1. I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
 2. I Parcial - [Hashing](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Hashing) Hecha por [Jesús Chacón](https://github.com/chjesus)
