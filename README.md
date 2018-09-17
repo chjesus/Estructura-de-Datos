@@ -80,7 +80,7 @@
 4. I Parcial - [MezclaDirecta.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Mezcla%20Directa/MezclaDirecta.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
 5. II Parcial - [Bicola.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/Bicola.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
 6. II Parcial - [Colas_dinamicas.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/Colas_dinamicas.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
-7. II Parcial - [ListaCircularSimple.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaCircularSimple.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
+7. II Parcial - [ListaCircularSimple.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaCircularSimple.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
 8. II Parcial - [ListaDinSimple.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaDinSimple.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
 9. II Parcial - [ListaDobCircular.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaDobCircular.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador) - Mejorada por [Jesús Chacón](https://github.com/chjesus)
 10. II Parcial - [ListaDodEnlazada.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaDobEnlazada.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador) - Mejorada por [Jesús Chacón](https://github.com/chjesus)
