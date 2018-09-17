@@ -38,5 +38,5 @@
     - Arboles Binarios.
     - Arboles AVL.
   - Grafos.
-# [IV Parcial]
+# [IV Parcial](https://github.com/chjesus/Restar-Cuadrados)
    Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
