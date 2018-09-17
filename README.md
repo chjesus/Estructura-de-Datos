@@ -1,8 +1,8 @@
 # Estructura de Datos | Intensivo 2018-3
 
 # [I Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I)
-### 1. Metodos de Ordenación. ###
-   - **Interna.**
+1. Metodos de Ordenación.
+   - Interna.
      - Burbuja.
      - Insercción Directa.
      - Merge-Sort.
@@ -10,13 +10,13 @@
      - Selección Directa.
      - Shaker-Sort.
      - Shell.
-   - **Externa.**
+   - Externa.
      - Mezcla Directa.
-### 2. Metodos de busqueda. ###
+2. Metodos de busqueda.
    - Secuencial.
    - Binaria.
    - Indexada.
-### 3. Manejo de archivos. ###
+3. Manejo de archivos.
    - Texto.
    - Binarios.
 # [II Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II)
