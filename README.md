@@ -42,5 +42,5 @@
    Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
    
 ># Contenido de las Plantillas (.h)
-- I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesus]
+- I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesús](https://github.com/chjesus)
   - ad
