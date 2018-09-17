@@ -1,5 +1,5 @@
 # Estructura de Datos | Intensivo 2018-3 
-## Temario | Plantillas | Practicas | Clases | Parciales Resueltos
+>## Temario | Plantillas | Practicas | Clases | Parciales Resueltos
 
 # [I Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I)
 1. **Metodos de Ordenación.**
