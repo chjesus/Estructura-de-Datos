@@ -1,4 +1,4 @@
-># Estructura de Datos | Intensivo 2018-3 | Temario
+# Estructura de Datos | Intensivo 2018-3 | Temario
 
 # [I Parcial](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I)
 1. **Metodos de Ordenación.**
@@ -41,6 +41,13 @@
 # [IV Parcial](https://github.com/chjesus/Restar-Cuadrados)
    Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
    
-># Contenido de las Plantillas (.h)
-- I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesús](https://github.com/chjesus)
-  - ad
+# Contenido de las Plantillas (.h)
+1. I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
+2. I Parcial - [MezclaDirecta.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Mezcla%20Directa/MezclaDirecta.h) - Hecha por [Pedro Labrador](https://github.com/PedroLabrador)
+3. II Parcial - [Bicola.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/Bicola.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
+4. II Parcial - [Colas_dinamicas.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/Colas_dinamicas.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
+5. II Parcial - [ListaCircularSimple.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaCircularSimple.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
+6. II Parcial - [ListaDinSimple.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaDinSimple.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
+7. II Parcial - [ListaDobCircular.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaDobCircular.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador) - Mejorada por [Jesús Chacón](https://github.com/chjesus)
+8. II Parcial - [ListaDodEnlazada.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/ListaDobEnlazada.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador) - Mejorada por [Jesús Chacón]
+9. II Parcial - [Pilas_dinamicas.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20II/Plantillas/Pilas_dinamicas.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
