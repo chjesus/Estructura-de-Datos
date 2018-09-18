@@ -43,7 +43,7 @@
    Juego - [Restar Cuadrados](https://github.com/chjesus/Restar-Cuadrados).
    
 # Descargas | Importante
-- Para la Ejecución del Problema 1 del [Parcial III](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Parcial%20III%202018-3) Es necesario descargar el Archivo Personas.txt para la lectura de datos [Personas.txt](https://mega.nz/#!jp8kQCDJ!ctf00NoqQ6clxqYmBnIaejxIYqQOYEtTLofTXocyWAQ)
+- Para la Ejecución del Problema 1 del [Parcial III](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Parcial%20III%202018-3) Es necesario descargar el Archivo [Personas.txt](https://mega.nz/#!jp8kQCDJ!ctf00NoqQ6clxqYmBnIaejxIYqQOYEtTLofTXocyWAQ) para la lectura de datos.
 - Algunos Parciales [Descargar](https://mega.nz/#F!D5cUwQjQ!xl0tuXQIwpuuBOKTatACGA). 
 - Material de Referencia [Descargar](https://mega.nz/#!S1MQ0YTC!W3wjx5n1vI3gdALfU8-232MQh3KP2iu7xGMa1Y3d5Oo)
 
