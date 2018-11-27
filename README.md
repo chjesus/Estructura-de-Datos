@@ -93,7 +93,7 @@
 15. III Parcial - [NodoAdy.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoAdy.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 
-# Como Usar la Plantilla Archivo
+# Uso de la Plantilla Archivo.h
 ## Metodos Generales
 ```c++
 	nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
@@ -103,7 +103,7 @@
 	leer->compararAndImprimir(nombre_archivo_binario,nombre_archivo_txt);
 	leer->compararAndGuardar(dato_int,nombre_archivo_txt);
 ```
-## Metodo "ordenarVector"
+## Método "ordenarVector"
 Ejemplo basico para el uso del metodo "ordenarVector"
 - Separar datos y guardarlo en un vector.
 - Imprimir datos del vector desordenados.
@@ -121,7 +121,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 	cout<<endl<<"Vector Ordenado"<<endl;
 	leer->imprimirVector(lista);
 ```
-## Metodo "busquedaBinaria"
+## Método "busquedaBinaria"
 ```c++
 	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
 	vector<nombre_clase> lista;
@@ -135,7 +135,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 		cout<<"dato Encontrado!"<<lista[valor].getNombre();
 	}
 ```
-## Metodo "busquedaSecuencial"
+## Método "busquedaSecuencial"
 ```c++
 	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
 	vector<nombre_clase> lista;
@@ -149,7 +149,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 	}
 ```
 
-## Metodo de "busquedaSecuencialArchivo"
+## Método de "busquedaSecuencialArchivo"
 ```c++
 	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
 	nombre_clase nombre_objeto;
@@ -162,7 +162,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 		cout<<"dato Encontrado!"<<nombre_objeto;
 	}
 ```
-## Metodo de "busquedaBinariaArchivo"
+## Método de "busquedaBinariaArchivo"
 ```c++
 	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
 	nombre_clase nombre_objeto;
@@ -175,7 +175,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 		cout<<"dato Encontrado!"<<nombre_objeto;
 	}
 ```
-## Metodo "devolverLinea" - retorna linea por linea del archivo de texto 
+## Método "devolverLinea" - retorna linea por linea del archivo de texto 
 ```c++
    Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
    string lineaCadena;
@@ -186,7 +186,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
            cout<<"La linea del archivo es: "<<lineaCadena<<endl;
 	}
 ```
-## Metodo "devolverObjeto" - retorna un objeto de cada dato del archivo de texto
+## Método "devolverObjeto" - retorna un objeto de cada dato del archivo de texto
 ```c++
    Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
    nombre_clase a;
