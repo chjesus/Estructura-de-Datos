@@ -195,6 +195,10 @@ void Archivo<T>::ordenarVector(vector<T> &lista,int tipo){
 	}
 }
 
+/*
+* Crea un archivo binario a partir de un de texto
+*/
+
 template <class T>
 void Archivo<T>::crearArchivoBinario(char *nombreArchivo,char *nombreTexto){
 
@@ -224,6 +228,10 @@ void Archivo<T>::crearArchivoBinario(char *nombreArchivo,char *nombreTexto){
 	ficheroBinario.close();
 }
 
+/*
+* Recive el nombre del archivo binario a imprimir
+*/
+
 template <class T>
 void Archivo<T>::imprimirArchivoBinario(char *nombreBinario){
 	ficheroBinario.open(nombreBinario,ios::binary | ios::in);
@@ -232,6 +240,13 @@ void Archivo<T>::imprimirArchivoBinario(char *nombreBinario){
 		}
 	ficheroBinario.close();
 }
+
+/*
+* El metodo compararAndImprimir su funcionalidad consta de que recive 2 parametros,
+* uno de tipo char (Nombre del Archivo Binario) y el otro de tipo char (Nombre del archivo de texto).
+* si el dato a comparar en el archivo binario es igual al de texto
+* se imprime en pantalla los datos de esa linea del archivo
+*/
 
 template <class T>
 void Archivo<T>::compararAndImprimir(char *nombreDat,char *nombreTxt){
@@ -264,6 +279,14 @@ void Archivo<T>::compararAndImprimir(char *nombreDat,char *nombreTxt){
 	ficheroBinario.close();
 }
 
+/*
+* El metodo compararGuardar su funcionalidad consta de que recive 2 parametros,
+* uno de tipo int (se puede cambiar el tipo de valor a comparar) y el otro parametro
+* el nombre del archivo de texto.
+* si el dato a comparar en el archivo es igual, los datos completo de esa linea en el archivo
+* se guardara en el archivo binario si esta creado si no se creara uno nuevo para guardar
+* la informacion comparada
+*/
 template <class T>
 void Archivo<T>::compararAndGuardar(int comparar,string nombreTxt){
 	T *leer2 = new T();
@@ -295,7 +318,18 @@ void Archivo<T>::compararAndGuardar(int comparar,string nombreTxt){
 		ficheroTexto.close();
 	ficheroBinario.close();		
 }
-/* Metodos de Ordenacion */
+
+/*
+* Metodos de Ordenacion.
+* 0.- Burbuja.
+* 1.- Shell
+* 2.- Selecion Directa
+* 3.- Merger Sort (Pendiente por Arreglar)
+* 4.- Insercion Directa
+* 5.- Shaker Sort
+* 6.- Quick Sort
+* 7.- Ordenacion Binaria
+*/
 
 template <class T>
 void Archivo<T>::burbuja(vector<T> &v){
@@ -517,9 +551,10 @@ void Archivo<T>::ordenacionBinaria(vector<T> &v, int tam){
         v[izquierda] = auxiliar;
     }
 }
-/* Tipos de Busqueda */
-
-/* Usando Array */
+/* 
+* Tipos de Busqueda 
+* Usando Array
+*/
 template <class T>
 int Archivo<T>::busquedaBinaria(vector<T> &v, int tam, string nombre){
 	int Iarriba = tam-1;
@@ -548,7 +583,10 @@ int Archivo<T>::busquedaSecuencial(vector<T> &v,int tam,string nombre){
 	return -1;
 }
 
-/* Usando Archivos Directamente */
+/*
+* Tipos de Busqueda 
+* Usando Archivos Directamente 
+*/
 
 template <class T>
 bool Archivo<T>::busquedaSecuencialArchivo(char *nombreArchivo,int clave,T &obj){
@@ -585,6 +623,9 @@ bool Archivo<T>::busquedaBinariaArchivo(char *nombreArchivo,char *clave,T &obj,i
     return band;
 }
 
+/*
+* Pendiente por terminar metodo
+*/
 template <class T>
 int Archivo<T>::busquedaIndexada(char *nombreArchivo, vector<T> &lista){
 	int i = 0;
