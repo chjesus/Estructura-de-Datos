@@ -110,7 +110,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 - Ordendar Vector.
 - Imprimir datos del vector ordenados.
 ```c++
-	nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
+	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
 	vector<nombre_clase> lista;
 	
 	leer->separarCadena(lista);
@@ -123,7 +123,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 
 ## Metodo "devolverLinea" - retorna linea por linea del archivo de texto 
 ```c++
-   nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
+   Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
    string lineaCadena;
    int cont;
    
@@ -134,7 +134,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 ```
 ## Metodo "devolverObjeto" - retorna un objeto de cada dato del archivo de texto
 ```c++
-   nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
+   Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
    nombre_clase a;
    int cont;
    
