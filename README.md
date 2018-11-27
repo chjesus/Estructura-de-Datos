@@ -94,17 +94,25 @@
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 
 # Como Usar la Plantilla Archivo
-- I Parcial [2011-1](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Parcial%202011-1)
-  - Problema Unico Estado - Completo
-- I Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Parcial%20I%202018-3)
-  - Problema 1 Estado - Incompleto
-  - Problema 2 Estado - Completo
-- II Parcial [2014-2](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Parcial%202)
-  - Problema 1 Estado - Completo
-  - Problema 2 Estado - Completo
-- II Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Parcial%202%20-%202018-3)
-  - Problema 1 Estado - Completo
-  - Problema 2 Estado - Completo
-- III Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Parcial%20III%202018-3)
-  - Problema 1 Estado - Completo
-  - Problema 2 Estado - Incompleto
+## Metodo "devolverLinea" - retorna linea por linea del archivo de texto 
+```c++
+   nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
+   string lineaCadena;
+   int cont;
+   
+	for(int i=0;i<tam;i++){
+	   lineaCadena = leer->devolverLinea(nombreTexto,i,cont);
+           cout<<"La linea del archivo es: "<<lineaCadena<<endl;
+	}
+```
+## Metodo "devolverObjeto" - retorna un objeto de cada dato del archivo de texto
+```c++
+   nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
+   nombre_clase a;
+   int cont;
+   
+	for(int i=0;i<tam;i++){
+	   a = leer->devolverObjeto(nombre_archivo_txt,i,cont);
+	   cout<<"El valor es: "<<a.getValor()<<endl;
+	}
+```
