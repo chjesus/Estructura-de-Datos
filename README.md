@@ -94,6 +94,33 @@
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 
 # Como Usar la Plantilla Archivo
+## Metodos Generales
+```c++
+	nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
+	vector<nombre_clase> lista;
+	
+	leer->separarCadena(lista);
+	leer->compararAndImprimir(nombre_archivo_binario,nombre_archivo_txt);
+	leer->compararAndGuardar(dato_int,nombre_archivo_txt);
+```
+## Metodo "ordenarVector"
+Ejemplo basico para el uso del metodo "ordenarVector"
+- Separar datos y guardarlo en un vector.
+- Imprimir datos del vector desordenados.
+- Ordendar Vector.
+- Imprimir datos del vector ordenados.
+```c++
+	nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
+	vector<nombre_clase> lista;
+	
+	leer->separarCadena(lista);
+	cout<<"Vector no Ordenado"<<endl;
+	leer->imprimirVector(lista);
+	leer->ordenarVector(lista,6);
+	cout<<endl<<"Vector Ordenado"<<endl;
+	leer->imprimirVector(lista);
+```
+
 ## Metodo "devolverLinea" - retorna linea por linea del archivo de texto 
 ```c++
    nombre_plantilla<nombre_clase> *leer = new nombre_plantilla<nombre_clase>(nombre_archivo_txt);
