@@ -76,7 +76,7 @@
   - Problema 2 Estado - Incompleto
 
 # Contenido de las Plantillas (.h)
-1. I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesús Chacón](https://github.com/chjesus)
+1. I Parcial - [Archivo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Plantillas/Archivo.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - [Como usar la plantilla Archivo.h](#como-usar-la-plantilla-archivo.h)
 2. I Parcial - [Hashing](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Hashing) Hecha por [Jesús Chacón](https://github.com/chjesus)
 3. I Parcial - [MezclaDirectaArray](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Mezcla%20Directa%20con%20Array/main.cpp) - Hecha por [Jesús Chacón](https://github.com/chjesus)
 4. I Parcial - [MezclaDirecta.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20I/Mezcla%20Directa/MezclaDirecta.h) - Aportada por [Pedro Labrador](https://github.com/PedroLabrador)
@@ -92,3 +92,5 @@
 14. III Parcial - [Grafo.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/Grafo.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 15. III Parcial - [NodoAdy.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoAdy.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
+
+## Como Usar la Plantilla Archivo.h
