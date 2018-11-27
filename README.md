@@ -134,7 +134,35 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 	}else{
 		cout<<"dato Encontrado!"<<lista[valor].getNombre();
 	}
-```	
+```
+## Metodo "busquedaSecuencial"
+```c++
+	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
+	vector<nombre_clase> lista;
+	int valor;
+	
+	valor = leer->busquedaSecuencial(lista,lista.size(),string_a_comparar)
+	if(valor == -1){
+		cout<<"Dato no encontrado"<<endl;
+	}else{
+		cout<<"dato Encontrado!"<<lista[valor].getNombre();
+	}
+```
+
+## Metodo de "busquedaSecuencialArchivo"
+```c++
+	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
+	vector<nombre_clase> lista;
+	nombre_clase nombre_objeto;
+	bool band;
+	
+	band = leer->busquedaSecuencialArchivo(nombre_archivo,clave,nombre_objeto)
+	if(!band){
+		cout<<"Dato no encontrado"<<endl;
+	}else{
+		cout<<"dato Encontrado!"<<nombre_objeto;
+	}
+```
 ## Metodo "devolverLinea" - retorna linea por linea del archivo de texto 
 ```c++
    Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
