@@ -93,4 +93,4 @@
 15. III Parcial - [NodoAdy.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoAdy.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 
-## Como Usar la Plantilla Archivo.h
+# Como Usar la Plantilla Archivo.h
