@@ -152,11 +152,23 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 ## Metodo de "busquedaSecuencialArchivo"
 ```c++
 	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
-	vector<nombre_clase> lista;
 	nombre_clase nombre_objeto;
 	bool band;
 	
-	band = leer->busquedaSecuencialArchivo(nombre_archivo,clave,nombre_objeto)
+	band = leer->busquedaSecuencialArchivo(nombre_archivo,clave_buscar,nombre_objeto)
+	if(!band){
+		cout<<"Dato no encontrado"<<endl;
+	}else{
+		cout<<"dato Encontrado!"<<nombre_objeto;
+	}
+```
+## Metodo de "busquedaBinariaArchivo"
+```c++
+	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
+	nombre_clase nombre_objeto;
+	bool band;
+	
+	band = leer->busquedaBinariaArchivo(nombre_archivo,clave_buscar,nombre_objeto,tamaño)
 	if(!band){
 		cout<<"Dato no encontrado"<<endl;
 	}else{
