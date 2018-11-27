@@ -121,6 +121,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 	cout<<endl<<"Vector Ordenado"<<endl;
 	leer->imprimirVector(lista);
 ```
+### Metodo "busquedaBinaria"
 
 ## Metodo "devolverLinea" - retorna linea por linea del archivo de texto 
 ```c++
