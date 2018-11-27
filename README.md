@@ -121,8 +121,20 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 	cout<<endl<<"Vector Ordenado"<<endl;
 	leer->imprimirVector(lista);
 ```
-### Metodo "busquedaBinaria"
-
+## Metodo "busquedaBinaria"
+```c++
+	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
+	vector<nombre_clase> lista;
+	int valor;
+	
+	valor = leer->busquedaBinaria(lista,lista.size(),string_a_comparar);
+	valor = leer->busquedaBinaria(lista,lista.size(),string_a_comparar);
+	if(valor == -1){
+		cout<<"Dato no encontrado"<<endl;
+	}else{
+		cout<<"dato Encontrado!"<<lista[valor].getNombre();
+	}
+```	
 ## Metodo "devolverLinea" - retorna linea por linea del archivo de texto 
 ```c++
    Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
