@@ -43,6 +43,7 @@ class NodoAVL {
 
 template<class T>
 class ArbolAVL {
+	int i=0;
 	private:
 		int contador;
 		int altura;
@@ -177,7 +178,9 @@ int ArbolAVL<T>::Anadir(T dat) {
 template<class T>
 void ArbolAVL<T>::Equilibrar(NodoAVL<T> *nodo, int rama, bool nuevo) {
 	bool salir = false;
-
+	
+	cout<<"Contador: "<<i<<endl;
+	i++;
 	while (nodo && !salir) {
 		if (nuevo)
 			if (rama == IZQUIERDO)
