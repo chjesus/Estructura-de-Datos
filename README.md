@@ -94,3 +94,17 @@
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 
 # Como Usar la Plantilla Archivo.h
+- I Parcial [2011-1](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Parcial%202011-1)
+  - Problema Unico Estado - Completo
+- I Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20I/Parcial%20I%202018-3)
+  - Problema 1 Estado - Incompleto
+  - Problema 2 Estado - Completo
+- II Parcial [2014-2](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Parcial%202)
+  - Problema 1 Estado - Completo
+  - Problema 2 Estado - Completo
+- II Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20II/Parcial%202%20-%202018-3)
+  - Problema 1 Estado - Completo
+  - Problema 2 Estado - Completo
+- III Parcial [2018-3](https://github.com/chjesus/Estructura-de-Datos/tree/master/Parcial%20III/Parcial%20III%202018-3)
+  - Problema 1 Estado - Completo
+  - Problema 2 Estado - Incompleto
