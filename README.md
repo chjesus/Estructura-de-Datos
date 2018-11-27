@@ -109,6 +109,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 - Imprimir datos del vector desordenados.
 - Ordendar Vector.
 - Imprimir datos del vector ordenados.
+
 ```c++
 	Archivo<nombre_clase> *leer = new Archivo<nombre_clase>(nombre_archivo_txt);
 	vector<nombre_clase> lista;
@@ -116,7 +117,7 @@ Ejemplo basico para el uso del metodo "ordenarVector"
 	leer->separarCadena(lista);
 	cout<<"Vector no Ordenado"<<endl;
 	leer->imprimirVector(lista);
-	leer->ordenarVector(lista,6);
+	leer->ordenarVector(lista,6); //Numero entre [0-7] - Diferentes metodos de ordenacion
 	cout<<endl<<"Vector Ordenado"<<endl;
 	leer->imprimirVector(lista);
 ```
