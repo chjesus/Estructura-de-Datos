@@ -93,6 +93,29 @@
 15. III Parcial - [NodoAdy.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoAdy.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 
+# Uso de la Libreria vector
+Algunos metodos de la clase vector
+- assign: asigna los elementos al vector.
+- at: devuelve el elemento de una posición específica.
+- back: devuelve una referencia al último elemento del vector.
+- begin: devuelve un iterador al principio del vector.
+- capacity: devuelve el número de elementos que pueden ser contenidos por el vector.
+- clear: elimina todos los elementos del vector.
+- empty: true si el vector está vacio.
+- end: devuelve un iterador al final del vector.
+- erase: elimina elementos del vector.
+- front: regresa una referencia al primer componente del vector.
+- insert: insertar componentes en el vector.
+- max_size: regresa el número máximo de elementos soportados por el vector.
+- pop_back: elimina el último elemento del vector.
+- push_back: añade un elemento al final del vector.
+- rbegin: devuelve un reverse_iterator hacia el final del vector.
+- rend: devuelve un reverse_iterator hacia el inicio del vector.
+- reserve: establece la capacidad mínima del vector.
+- resize: cambia el tamaño del vector.
+- size: devuelve el número de componentes en el vector.
+- swap: intercambia el contenido de un vector con el de otro.
+
 # Uso de la Plantilla Archivo.h
 ## Metodos Generales
 ```c++
