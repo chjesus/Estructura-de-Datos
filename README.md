@@ -94,7 +94,7 @@
 16. III Parcial - [NodoDir.h](https://github.com/chjesus/Estructura-de-Datos/blob/master/Parcial%20III/Plantillas/NodoDir.h) - Hecha por [Jesús Chacón](https://github.com/chjesus) - Pendiente por Mejorarla.
 
 # Uso de la Libreria vector
-Algunos metodos de la clase vector
+Algunos métodos de la clase vector
 - assign: asigna los elementos al vector.
 - at: devuelve el elemento de una posición específica.
 - back: devuelve una referencia al último elemento del vector.
